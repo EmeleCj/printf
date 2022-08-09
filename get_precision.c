@@ -1,4 +1,4 @@
-#include "main.h"
+i#include "main.h"
 
 /**
  * get_precision - Calculates the precision for printing and returns the
@@ -40,4 +40,4 @@ int get_precision(const char *format, int *i, va_list list)
 
 	return (precision);
 }
-/* my task with Hikmah */
+/* my task with EmeleCj */
